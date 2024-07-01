@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.Inheritance;
+package ObjectOrientedProgramming.Inheritance.InheritanceDemo1;
 
 public class InheritanceDemo1 {
     public static void main(String[] args) {

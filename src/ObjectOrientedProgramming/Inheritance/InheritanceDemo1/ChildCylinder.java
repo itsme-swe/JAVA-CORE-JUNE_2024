@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.Inheritance;
+package ObjectOrientedProgramming.Inheritance.InheritanceDemo1;
 
 public class ChildCylinder extends ParentCircle {
 
