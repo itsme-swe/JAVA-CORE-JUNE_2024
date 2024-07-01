@@ -13,8 +13,6 @@ public class DataHidingDemo1 {
         System.out.println("Length of rectangle " + r1.getLength());
         System.out.println("Breadth of rectangle " + r1.getBreadth());
 
-
-
     }
 }
 

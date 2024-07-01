@@ -15,7 +15,10 @@ public class Rectangle {
 
     void setLength(int l)
     {
-        length = l;
+        if (l > 0)
+            length = l;
+        else
+            length = 0;
     }
 
     int getBreadth()
@@ -25,7 +28,10 @@ public class Rectangle {
 
     void setBreadth(int b)
     {
-        breadth = b;
+        if (b > 0)
+            breadth = b;
+        else
+            breadth = 0;
     }
 
     //3️⃣ Methods cannot be private
