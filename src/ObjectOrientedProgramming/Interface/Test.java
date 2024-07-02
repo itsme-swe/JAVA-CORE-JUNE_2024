@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.Interfaces;
+package ObjectOrientedProgramming.Interface;
 
 interface Test {
 

@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.Interfaces;
+package ObjectOrientedProgramming.Interface;
 
 public class TestChild implements Test{
 
