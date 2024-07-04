@@ -1,4 +1,5 @@
 package ExceptionHandling.ThrowAndThrows;
+
 //1️⃣ UserDefined Exception
 class NegativeException extends Exception
 {
@@ -7,6 +8,7 @@ class NegativeException extends Exception
         return"Dimensions cannot be negative";
     }
 }
+
 public class UserDefinedException {
 
     static int area(int l, int b) throws Exception
