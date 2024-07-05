@@ -1,4 +1,4 @@
-package Multithreading.UsingRunnableInterface;
+package Multithreading.RunnableInterface;
 
 public class Demo implements Runnable {
 

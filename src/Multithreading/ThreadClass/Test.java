@@ -1,4 +1,4 @@
-package Multithreading.UsingThreadClass;
+package Multithreading.ThreadClass;
 
 public class Test {
     public static void main(String[] args) {
