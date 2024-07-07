@@ -26,5 +26,6 @@ public class SleepMethod {
         Demo d = new Demo("SleepThread");
 
         d.start();
+        d.interrupt();      //2️⃣ interrupt() method is used to interrupt the thread.
     }
 }
