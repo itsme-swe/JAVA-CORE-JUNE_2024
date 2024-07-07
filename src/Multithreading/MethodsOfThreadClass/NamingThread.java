@@ -6,6 +6,7 @@ class MyThread extends Thread
 {
     public MyThread(String name){
         super(name);
+        setPriority(Thread.MAX_PRIORITY -2);       //🔸Setting the priority
     }
 }
 
