@@ -7,7 +7,7 @@ public class SharedData {
 
    synchronized public void setValue(int v)
     {
-        while (!flag)
+        while (!flag)   //🔸 if flag is false
             try {
                 wait();
             }catch (Exception e){
@@ -22,6 +22,7 @@ public class SharedData {
     {
         int x = 0;
 
+        //🔸 if flag is true
         while (flag){
             try {
                 wait();
