@@ -1,6 +1,6 @@
 package LambdaExpression;
 
-public class MyLambdaDemo1 {
+public class  MyLambdaDemo1 {
     public static void main(String[] args) {
 
         //1️⃣ Here we are creating an object of MyLambda and creating inner class and overriding the method
