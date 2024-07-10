@@ -1,4 +1,4 @@
-package JavaDocumentation.Abstraction;
+package JavaDocumentation.Annotations;
 
 abstract class Parent
 {
