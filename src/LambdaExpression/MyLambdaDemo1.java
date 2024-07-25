@@ -4,6 +4,7 @@ public class  MyLambdaDemo1 {
     public static void main(String[] args) {
 
         //1️⃣ Here we are creating an object of MyLambda and creating inner class and overriding the method
+
         MyLambda ml = new MyLambda(){
 
             public void display()
@@ -11,6 +12,7 @@ public class  MyLambdaDemo1 {
                 System.out.println("Hello World");
             }
         };
+
         ml.display();
 
         //2️⃣ And, here we are creating Lambda Expression

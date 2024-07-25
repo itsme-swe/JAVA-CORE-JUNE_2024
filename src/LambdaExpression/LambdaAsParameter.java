@@ -1,5 +1,6 @@
 package LambdaExpression;
 
+@FunctionalInterface
 interface MyNewLambda
 {
     public void display();
